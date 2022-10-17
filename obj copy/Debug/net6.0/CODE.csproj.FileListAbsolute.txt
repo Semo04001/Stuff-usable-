@@ -1,0 +1,15 @@
+/Users/sebski/Desktop/CODE/bin/Debug/net6.0/CODE
+/Users/sebski/Desktop/CODE/bin/Debug/net6.0/CODE.deps.json
+/Users/sebski/Desktop/CODE/bin/Debug/net6.0/CODE.runtimeconfig.json
+/Users/sebski/Desktop/CODE/bin/Debug/net6.0/CODE.dll
+/Users/sebski/Desktop/CODE/bin/Debug/net6.0/CODE.pdb
+/Users/sebski/Desktop/CODE/obj/Debug/net6.0/CODE.csproj.AssemblyReference.cache
+/Users/sebski/Desktop/CODE/obj/Debug/net6.0/CODE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sebski/Desktop/CODE/obj/Debug/net6.0/CODE.AssemblyInfoInputs.cache
+/Users/sebski/Desktop/CODE/obj/Debug/net6.0/CODE.AssemblyInfo.cs
+/Users/sebski/Desktop/CODE/obj/Debug/net6.0/CODE.csproj.CoreCompileInputs.cache
+/Users/sebski/Desktop/CODE/obj/Debug/net6.0/CODE.dll
+/Users/sebski/Desktop/CODE/obj/Debug/net6.0/refint/CODE.dll
+/Users/sebski/Desktop/CODE/obj/Debug/net6.0/CODE.pdb
+/Users/sebski/Desktop/CODE/obj/Debug/net6.0/CODE.genruntimeconfig.cache
+/Users/sebski/Desktop/CODE/obj/Debug/net6.0/ref/CODE.dll
